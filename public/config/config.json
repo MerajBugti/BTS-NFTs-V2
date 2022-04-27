@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e4213F7102295E0eb410b76AB0350428c7FAeA7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5e4213f7102295e0eb410b76ab0350428c7faea7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BTS NFTs",
+  "SYMBOL": "BTS",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bts-nfts",
+  "SHOW_BACKGROUND": true
+}
